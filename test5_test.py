@@ -16,7 +16,7 @@ global pic_name
 global width
 global mywindow
 width = 400
-                                      
+# test                  
 class WindowClass(QMainWindow, form_class):
     def __init__(self):
         super().__init__()
