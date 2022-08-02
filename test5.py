@@ -22,7 +22,7 @@ global pic_name
 global width
 global pic1_height
 global qImg
-
+#test text
 width = 400
 
 class WindowClass(QMainWindow, form_class):
